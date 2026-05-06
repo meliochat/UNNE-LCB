@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Índice
+## Índice
 
 - [Sobre el proyecto](#-sobre-el-proyecto)
 - [Simulador de correlativas](#-simulador-de-correlativas)
@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Sobre el proyecto
+## Sobre el proyecto
 
 Hola! Soy **Meli**, estudiante de la **Licenciatura en Ciencias Biológicas** y **Licenciatura en Sistemas** en FaCENA – UNNE.
 
@@ -33,7 +33,7 @@ Armé este repo para tener en un solo lugar:
 
 ---
 
-## 🖥️ Simulador de correlativas
+## Simulador de correlativas
 
 El simulador te permite:
 
@@ -59,13 +59,13 @@ El simulador te permite:
 | Paleontología | 🦴 | Geología Histórica, Paleobotánica, Paleoinvertebrados, Paleovertebrados, Sedimentología, Paleobiogeografía |
 | Zoología | 🦎 | Anatomía Comparada de los Cordados, Embriología Animal, Histología Animal, Biología de los Artrópodos, Ecología Animal |
 
-El **tronco común** (1°, 2° y 3° año) es igual para todas las orientaciones.
+Las **materias común** (1°, 2° y 3° año) es igual para todas las orientaciones.
 
 ---
 
 ## 📚 Apuntes por materia
 
-> 🚧 Sección en construcción — ¡tu aporte es bienvenido!
+> Sección en construcción — ¡tu aporte es bienvenido!
 
 Organizados por año y materia. Cada carpeta tiene (o tendrá) resúmenes, guías de práctica y parciales viejos.
 
@@ -93,7 +93,7 @@ Organizados por año y materia. Cada carpeta tiene (o tendrá) resúmenes, guía
 
 ---
 
-## 🤝 Cómo contribuir
+## Cómo contribuir
 
 ¿Tenés apuntes, resúmenes, prácticos o parciales viejos? **¡Todo suma!**
 
@@ -125,7 +125,7 @@ Organizados por año y materia. Cada carpeta tiene (o tendrá) resúmenes, guía
 
 ---
 
-## 🛠️ Correr el simulador localmente
+## Correr el simulador localmente
 
 ```bash
 git clone https://github.com/meliochat/correlativas-biologia.git
