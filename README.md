@@ -1,4 +1,4 @@
-# 🧬 Correlativas — Lic. en Ciencias Biológicas (FaCENA – UNNE)
+# Correlativas — Lic. en Ciencias Biológicas (FaCENA – UNNE)
 
 > Simulador de correlativas + repositorio de apuntes para la **Licenciatura en Ciencias Biológicas**  
 > Facultad de Ciencias Exactas y Naturales y Agrimensura — UNNE, Corrientes, Argentina.
@@ -29,7 +29,7 @@ Armé este repo para tener en un solo lugar:
 - **Apuntes, resúmenes y parciales** organizados por materia
 - Un espacio para que otros estudiantes **compartan material**
 
-> ⚠️ Este repositorio **NO es oficial**. El contenido es aportado por estudiantes voluntariamente.
+>  Este repositorio **NO es oficial**. El contenido es aportado por estudiantes voluntariamente.
 
 ---
 
@@ -39,31 +39,31 @@ El simulador te permite:
 
 - **Elegir tu orientación** al ingresar (Botánica, Ecología, Genética, Paleontología, Zoología)
 - **Marcar el estado** de cada materia: Sin cursar / Regularizada / Aprobada
-- Ver en tiempo real qué materias **podés cursar** según tus correlativas 🔓🔒
+- Ver en tiempo real qué materias **podés cursar** según tus correlativas 
 - **Filtrar** por: Todas / Disponibles para cursar / Aprobadas
 - Ver tu **progreso** de la carrera con barra en vivo
-- Cambiar entre **modo oscuro y claro** 🌙☀️
+- Cambiar entre **modo oscuro y claro** 
 - El avance se **guarda automáticamente** en el navegador (localStorage)
 
 ### 👉 [Abrir simulador](https://correlativas-biologia.vercel.app/)
 
 ---
 
-## 🌿 Orientaciones disponibles
+##  Orientaciones disponibles
 
 | Orientación | Emoji | Materias propias |
 |-------------|-------|-----------------|
-| Botánica | 🌿 | Biotaxonomía de Briófitas y Pteridófitas, Biotaxonomía de Espermatófitas, Ecología Vegetal, Ficología, Micología |
-| Ecología | 🌍 | Ecología Animal, Ecología Vegetal, Ecología de Poblaciones, Ecología de Comunidades, Limnología, Manejo de RR.NN. |
-| Genética | 🧬 | Citogenética, Genética Molecular, Genética de Poblaciones, Genética Evolutiva |
-| Paleontología | 🦴 | Geología Histórica, Paleobotánica, Paleoinvertebrados, Paleovertebrados, Sedimentología, Paleobiogeografía |
-| Zoología | 🦎 | Anatomía Comparada de los Cordados, Embriología Animal, Histología Animal, Biología de los Artrópodos, Ecología Animal |
+| Botánica | Biotaxonomía de Briófitas y Pteridófitas, Biotaxonomía de Espermatófitas, Ecología Vegetal, Ficología, Micología |
+| Ecología | Ecología Animal, Ecología Vegetal, Ecología de Poblaciones, Ecología de Comunidades, Limnología, Manejo de RR.NN. |
+| Genética | Citogenética, Genética Molecular, Genética de Poblaciones, Genética Evolutiva |
+| Paleontología | Geología Histórica, Paleobotánica, Paleoinvertebrados, Paleovertebrados, Sedimentología, Paleobiogeografía |
+| Zoología | Anatomía Comparada de los Cordados, Embriología Animal, Histología Animal, Biología de los Artrópodos, Ecología Animal |
 
 Las **materias común** (1°, 2° y 3° año) es igual para todas las orientaciones.
 
 ---
 
-## 📚 Apuntes por materia
+## Apuntes por materia
 
 > Sección en construcción — ¡tu aporte es bienvenido!
 
@@ -115,13 +115,13 @@ Organizados por año y materia. Cada carpeta tiene (o tendrá) resúmenes, guía
 
 ### ¿Qué se puede aportar?
 
-- 📝 Resúmenes y apuntes propios
-- 📄 Parciales viejos (con o sin respuestas)
-- 📋 Guías de práctica
-- 💡 Tips de cursada
-- 🐛 Correcciones de correlativas incorrectas
+-  Resúmenes y apuntes propios
+-  Parciales viejos (con o sin respuestas)
+-  Guías de práctica
+-  Tips de cursada
+-  Correcciones de correlativas incorrectas
 
-> ⚠️ Por favor no subas material protegido por copyright (libros completos, etc.)
+ Por favor no subas material protegido por copyright (libros completos, etc.)
 
 ---
 
@@ -138,7 +138,7 @@ Stack: **React 18 + Vite + Tailwind CSS 3**
 
 ---
 
-## 🙌 Créditos
+## Créditos
 
 - **Idea original del simulador:** [@1Hagi](https://github.com/1Hagi) — Correlativas LSI
 - **Inspiración del repo:** [@tobiager](https://github.com/tobiager) — [UNNE-LSI](https://github.com/tobiager/UNNE-LSI)
@@ -146,10 +146,10 @@ Stack: **React 18 + Vite + Tailwind CSS 3**
 
 ---
 
-## ⭐ Apoyá el proyecto
+## Apoyá el proyecto
 
 Si te fue útil, compartilo con tus compañeros y dejá una ⭐ en GitHub. ¡Ayuda a que más gente lo encuentre!
 
 ---
 
-**❤️🧬 Hecho con dedicación por [@meliochat](https://github.com/meliochat) — Para que le sirva a quien venga detrás.**
+**❤️ Hecho con dedicación por [@meliochat](https://github.com/meliochat) — Para que le sirva a quien venga detrás.**
